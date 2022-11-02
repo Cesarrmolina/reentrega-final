@@ -1,0 +1,236 @@
+.card-img-top{
+    width: 17rem;
+    }
+    
+    .card{
+        width: 18rem;
+        box-shadow: 5px 5px 20px rgb(0, 0, 4);
+    }
+    
+    .card-title{
+        height: 150;
+    }
+    
+    .card-all{
+    display: flex;
+    box-sizing: border-box;
+    cursor: default;
+    transition: all 400ms ease;
+    }
+
+    .card-all:hover{
+     box-shadow: 5px 5px 20px rgb(0, 0, 4);
+     transform: translateY(-3%);
+    }
+
+    .navbar-brand{
+      cursor: default;
+      transition: all 400ms ease;
+    }
+    
+    .navbar-brand:hover{
+      box-shadow: 5px 5px 20px rgb(0, 0, 4);
+      transform: translateY(-3%);
+    }
+
+    h2 {
+        text-align: center;
+        background-color: #F1F1F1;
+    }
+
+    h4 {
+      color: rgb(78, 78, 78);
+      text-align: center;
+      background-color: #F1F1F1;
+    }
+    
+    
+    body{
+        background-color: #F1F1F1;
+        background-image: url(https://thumbs.dreamstime.com/b/campo-de-f%C3%BAtbol-niebla-t%C3%A9cnicas-mixtas-112240101.jpg) ;
+    }
+    
+    h3 {
+        text-align: center;
+        text-decoration: dashed;
+    }
+
+    .nav-link{
+      cursor: default;
+      transition: all 400ms ease;
+    }
+
+    .nav-link:hover{
+      box-shadow: 5px 5px 20px rgb(0, 0, 4);
+      transform: translateY(-3%);
+    }
+
+    .acordeon {
+        width: 500px;
+        margin: 90px auto;
+        color: black;
+        background-color: white;
+        padding: 45px 45px;
+        cursor: default;
+        transition: all 400ms ease;
+      }
+      
+      .acordeon:hover{
+        box-shadow: 5px 5px 20px rgb(0, 0, 4);
+        transform: translateY(-3%);
+      }
+
+      .titulo1{
+        font-family: 'Alkalami', serif;
+      }
+
+      .premierleague{
+        height: 17rem;
+        text-align: right;
+        float: right;
+        margin-right: 31%;
+      }
+
+      .laliga{
+        height: 25rem;
+        text-align: right;
+        float: right;
+        margin-right: 7%;
+        margin-top: 0%;
+      }
+        
+    .seriea{
+      height: 25rem;
+        text-align: right;
+        float: right;
+        margin-right: 49%;
+        margin-top: 0%;
+    }    
+
+    .bundesliga{
+      height: 21rem;
+        text-align: right;
+        float: right;
+        margin-right: 28%;
+        margin-top: -1%;
+        width: 50%;
+        padding: 3%;
+    }
+    
+    .ligue1{
+      height: 20rem;
+      text-align: right;
+      float: right;
+      margin-right: 32%;
+    }
+
+    .primeradivisionchile{
+      height: 22rem;
+      text-align: right;
+      float: right;
+      margin-right: 53%;
+    }
+
+    .primeradivisionmexico{
+      height: 15rem;
+      text-align: right;
+      float: right;
+      margin-right: 28%;
+      margin-top: 4%;
+    }
+
+    .liga1{
+      height: 22rem;
+      text-align: right;
+      float: right;
+      margin-right: 52%;
+      margin-top: 2%;
+    }
+
+    .ligaprofesional{
+      height: 20rem;
+      text-align: right;
+      float: right;
+      margin-right: 36%;
+      margin-top: 3%;
+    }
+
+    .mls{
+      height: 20rem;
+      text-align: right;
+      float: right;
+      margin-right: 37%;
+      margin-top: 1%;
+    }
+
+    .bangladesh{
+      height: 20rem;
+      text-align: right;
+      float: right;
+      margin-right: 37%;
+      margin-top: -0.9%;
+    }
+
+    .barein{
+      height: 20rem;
+      text-align: right;
+      float: right;
+      margin-right: 54%;
+      margin-top: -2%;
+    }
+
+    .birmania{
+      height: 20rem;
+      text-align: right;
+      float: right;
+      margin-right: 62%;
+      margin-top: 1%;
+    }
+
+    .brunei{
+      height: 20rem;
+      text-align: right;
+      float: right;
+      margin-right: 50%;
+      margin-top: -0.8%;
+    }
+
+    .butan{
+      height: 20rem;
+      text-align: right;
+      float: right;
+      margin-right: 52%;
+      margin-top: -1%;
+    }
+
+    .caf{
+      height: 25rem;
+      text-align: right;
+      float: right;
+      margin-right: 56%;
+      margin-top: 0%;
+    }
+
+    .sudafricana{
+      height: 18rem;
+      text-align: right;
+      float: right;
+      margin-right: 44.1%;
+      margin-top: 0%;
+    }
+
+    .etiopia{
+      height: 22rem;
+      text-align: right;
+      float: right;
+      margin-right: 51%;
+      margin-top: 1%;
+    }
+
+    .argelia{
+      height: 22rem;
+      text-align: right;
+      float: right;
+      margin-right: 51%;
+      margin-top: 1%;
+    }
